@@ -3,7 +3,7 @@ package org.example;
 public class Animal {
 
     private String name;
-    String gender;
+    private String gender;
     private double weight=1;
     Animal partner;
 

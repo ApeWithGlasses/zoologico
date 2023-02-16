@@ -38,7 +38,7 @@ public class Familia {
             if(random<0.5){
                 son.setGender("F");
             }else{
-                son.gender="M";
+                son.setGender("M");
             }
             this.son=son;
 
